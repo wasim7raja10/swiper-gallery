@@ -43,3 +43,11 @@
   background-color: #666;
   cursor: not-allowed;
 }
+
+.swiper-slide {
+  text-align: center;
+}
+
+img {
+  height: 600px;
+}
